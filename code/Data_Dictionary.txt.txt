@@ -1,0 +1,23 @@
+
+Institute: 0: MMH; 1: CCH.
+Sex: 1: Female; 2: Male
+
+Features:
+Age: 年齡
+ECOG: 生活體能狀態 0 or 1
+Cancer site: 1: Tongue; 2: Buccal; 3: Other
+Stage: 0: Stage I-II; 1: Stage III-IVB
+Chemotherapy:0: No chemotherapy; 1: Chemotherapy
+Smoking: 0: No smoking. 1: Smoking
+SMI: Baseline skeletal muscle indes
+CE: Mean dose to the Cervical esophagus (CE)
+Cricopharyngeus: Mean dose to the Cricopharyngeus
+EIM: Mean dose to the Esophagus inlet muscles (EIM)
+GL: Mean dose to the glottic larynx (GL)
+Inferior_PCM: Mean dose to the inferior pharyngeal constrictor muscle (PCM)
+Middle_PCM: Mean dose to the middle PCM
+Superior_PCM: Mean dose to the middle PCM
+SGL: Mean dose to the supraglottic larynx (SGL).
+
+Endpoint:
+AP (Aspiration Pneumonia): 0: No AP; 1: AP
