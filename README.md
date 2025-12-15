@@ -1,11 +1,11 @@
 # Explainable Machine Learning for Predicting Aspiration Pneumonia in Oral Cavity Cancer
 
-### 📄 Published in *Radiotherapy and Oncology* (Impact Factor: 5.3)
+### Published in *Radiotherapy and Oncology* (Impact Factor: 5.3)
 **🔗 Official Full Text:** [Read on The Green Journal](https://www.thegreenjournal.com/article/S0167-8140(25)04570-0/abstract)
 
 ---
 
-### 📝 Abstract
+### Abstract
 
 **Background and purpose**
 Aspiration pneumonia is a severe late event that occurs following radiotherapy for oral cavity cancer (OCC). This study aimed to develop explainable machine learning models to predict aspiration pneumonia.
@@ -21,7 +21,7 @@ An explainable machine learning model can assist clinicians in predicting aspira
 
 ---
 
-### 🏆 Key Highlights
+### Highlights
 - **Role:** First Author
 - **Methodology:** Implemented **Random Forest**, **XGBoost**, and **CatBoost** for risk prediction.
 - **Explainability:** Utilized **SHAP (SHapley Additive exPlanations)** to interpret model decisions and identify key clinical risk factors.
@@ -29,14 +29,7 @@ An explainable machine learning model can assist clinicians in predicting aspira
 
 ---
 
-### 💡 Citation
-If you find this research helpful, please cite our paper:
-
-> [1] Wu YF, Lin JB, Chen YJ, Leu YS, Sun FJ, Lee J. Explainable machine learning for predicting aspiration pneumonia after radiotherapy in oral cavity cancer. Radiotherapy and Oncology 2025;211:111066.
-
----
-
-### 📮 Data & Code Availability
+### Data & Code Availability
 The datasets and source code generated during the current study are not publicly available due to intellectual property regulations of the laboratory.
 
 For collaboration inquiries or technical details, please contact the **Corresponding Author**:
